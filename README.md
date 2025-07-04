@@ -3,7 +3,7 @@ Projet QA de test fonctionnel d’un formulaire web – Cas de test, bugs, stori
 # Projet QA – ContactForm+
 
 Ce projet est une simulation complète de test fonctionnel autour d’un formulaire de contact en ligne.  
-Il a été réalisé dans le cadre de ma formation **"Testeur Logiciel"** à l’ENI École Informatique.
+Je l’ai réalisé dans le cadre d’une autoformation en test logiciel, dans le but de mettre en pratique ce que j’ai appris à travers un exemple concret.
 
 ---
 
